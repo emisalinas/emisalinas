@@ -10,23 +10,27 @@
   <img src="https://img.shields.io/badge/Role-Associate%20Technical%20Consultant-blue?style=flat-square" alt="Role"/>
 </p>
 
-Soy un **Ingeniero en Inteligencia de Datos y Ciberseguridad** y actual **estudiante de Maestría en Data Science**, con una gran pasión por crear soluciones tecnológicas eficientes y seguras. Mi objetivo es combinar el análisis de datos con el desarrollo de software para resolver problemas complejos.
+I'm a **Data Intelligence and Cybersecurity Engineer** and a current **MSc. Data Science student**, passionate about creating efficient and secure technological solutions. My goal is to combine data analysis with software development to solve complex problems.
 
 ### 🚀 Tech Stack & Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Salesforce%20Agent-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agent" width="40" height="40"/> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-- **Lenguajes:** Python, C#, Swift, C++, Go
+- **Languages:** Python, JavaScript, C#, Swift, C++, Go
+- **Salesforce:** Apex, LWC, Visualforce, Salesforce Agent
 - **Mobile & Web:** Flutter, HTML5, CSS3
-- **Diseño:** UI/UX, Diseño Web, Figma
+- **Design:** UI/UX, Web Design, Figma
 
 ---
 
