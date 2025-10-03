@@ -38,8 +38,8 @@ I'm a **Data Intelligence and Cybersecurity Engineer** and a current **MSc. Data
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/emisalinas">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emisalinas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emisalinas&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/emiliano-salinasSFDC">
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliano-salinasSFDC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliano-salinasSFDC&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
