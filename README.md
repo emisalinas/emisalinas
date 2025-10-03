@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Role-Associate%20Technical%20Consultant-blue?style=flat-square" alt="Role"/>
+  <img src="https://img.shields.io/badge/Role-Associate%20Technical%20Consultant%20Intern-blue?style=flat-square" alt="Role"/>
 </p>
 
 I'm a **Data Intelligence and Cybersecurity Engineer** and a current **MSc. Data Science student**, passionate about creating efficient and secure technological solutions. My goal is to combine data analysis with software development to solve complex problems.
@@ -26,8 +26,8 @@ I'm a **Data Intelligence and Cybersecurity Engineer** and a current **MSc. Data
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-- **Languages:** Python, JavaScript, C#, Swift, C++, Go
-- **Salesforce:** Apex, LWC, Visualforce, Salesforce Agent
+- **Languages:** APEX, Python, JavaScript, C#, Swift, C++, Go
+- **Salesforce:** LWC, Visualforce, Agentforce, Automation
 - **Mobile & Web:** Flutter, HTML5, CSS3
 - **Design:** UI/UX, Web Design, Figma
 
